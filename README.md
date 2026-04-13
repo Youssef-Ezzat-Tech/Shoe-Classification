@@ -12,9 +12,9 @@ Adidas | Nike | Converse | Other (4 Categories)
 - Clear rules for edge cases (unclear logos → Other)
 
 ## Files
-- Exports — labeled dataset  
-- Documentation — guidelines + project summary  
-- screenshots — annotation proof  
+- `Exports/shoe_brand_classification_export.json` — labeled dataset  
+- `Documentation` — guidelines + project summary  
+- `screenshots` — annotation proof  
 
 ## Skills Shown
 Image labeling • QA process • ML-ready dataset structuring
