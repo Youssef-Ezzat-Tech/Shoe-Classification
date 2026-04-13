@@ -1,12 +1,20 @@
-# Shoe-Classification
-Label Studio project for shoe brand classification.
+# Shoe Brand Classification (Label Studio)
 
-This project demonstrates structured data annotation for training machine learning models. Images of shoes are labeled by brand using a consistent labeling schema.
+## What This Is
+Labeled dataset of 114 shoe images classified by brand for computer vision training.
 
-Key highlights:
-- Clean, consistent annotation process
-- Clearly defined labeling guidelines
-- Exported JSON ready for ML pipelines
+## Labels
+Adidas | Nike | Converse | Other (4 Categories)
 
-Purpose:
-Showcase practical data labeling skills applicable to computer vision tasks such as brand recognition, product classification, and dataset preparation.
+## Quality
+- 114/114 images annotated
+- 100% consistency on 35-sample audit
+- Clear rules for edge cases (unclear logos → Other)
+
+## Files
+- Exports — labeled dataset  
+- Documentation — guidelines + project summary  
+- screenshots — annotation proof  
+
+## Skills Shown
+Image labeling • QA process • ML-ready dataset structuring
