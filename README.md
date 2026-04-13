@@ -1,2 +1,12 @@
 # Shoe-Classification
-Classifying shoe brands using label studio (Date annotation) in order to be used when training AI. It's just an example to showcase my labelling skills that can be applied to other various fields.
+Label Studio project for shoe brand classification.
+
+This project demonstrates structured data annotation for training machine learning models. Images of shoes are labeled by brand using a consistent labeling schema.
+
+Key highlights:
+- Clean, consistent annotation process
+- Clearly defined labeling guidelines
+- Exported JSON ready for ML pipelines
+
+Purpose:
+Showcase practical data labeling skills applicable to computer vision tasks such as brand recognition, product classification, and dataset preparation.
