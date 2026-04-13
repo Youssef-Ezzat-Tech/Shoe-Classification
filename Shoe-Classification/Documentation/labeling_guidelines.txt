@@ -1,0 +1,19 @@
+SHOE BRAND CLASSIFICATION - LABELING GUIDELINES
+
+OBJECTIVE: Identify the brand of footwear in each image
+
+LABEL DEFINITIONS:
+- Adidas: Any shoe displaying Adidas logo (three stripes) or branding
+- Nike: Any shoe displaying Nike swoosh or "NIKE" text
+- Converse: Any shoe displaying Converse star logo or "CONVERSE" text
+- Other: Shoes with no visible branding or non-target brands
+
+EDGE CASES:
+- Multiple shoes in frame → Label the most prominent/centered shoe
+- Unclear/blurry branding → Use "Other"
+- Mixed brand elements → Label by logo presence, not design similarity
+
+QUALITY STANDARDS:
+- Minimum 90% consistency required
+- Review at least 20% of labels for accuracy
+- Flag ambiguous images for secondary review

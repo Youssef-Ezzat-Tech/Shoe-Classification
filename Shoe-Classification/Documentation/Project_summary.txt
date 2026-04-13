@@ -1,0 +1,14 @@
+PROJECT: Shoe Brand Classification
+TOOL: Label Studio
+DURATION: 30 minutes
+DATASET: 114 footwear product images
+TASK: Multi-class image classification
+CLASSES: Adidas, Nike, Converse, Other (4 categories)
+ANNOTATIONS COMPLETED: 114
+QUALITY CHECK: 100% consistency across 35 random samples
+EXPORT FORMAT: JSON
+SKILLS DEMONSTRATED:
+- Categorical labeling
+- Quality control procedures
+- Annotation consistency
+- Dataset export for ML training
